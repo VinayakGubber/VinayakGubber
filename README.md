@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I’m+Vinayak+Gubber;&center=false&size=24">
@@ -7,7 +9,7 @@
 **Aspiring Software Developer | Java & MERN Stack | MCA Student at RVCE**  
 
 💡 Passionate about building scalable backend & full-stack applications.  
-🧠 Skilled in **Java, JavaScript, RESTful APIs, and database modeling**.  
+🧠 Skilled in **Java, JavaScript and RESTful APIs**.  
 🚀 Experienced with **MERN stack projects** and **cloud deployments**.  
 📌 Open to contributing to impactful projects and solving real-world problems.  
 
@@ -25,11 +27,35 @@
 
 ---
 
-## 📂 Projects  
+### 📂 Top Repositories  
 
-- **NoteSphere** – Full Stack Notes Sharing Platform (*MERN, Cloudinary, Multer, Redux*)  
-- **use-debounce-fn** – Open-source React Hook with **130+(highest) weekly downloads**  
-- **RandomQuoteAPI** – Lightweight REST API for inspirational quotes  
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <a href="https://github.com/VinayakGubber/NoteSphere">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NoteSphere&theme=nightowl" />
+  </a>
+
+  <a href="https://github.com/VinayakGubber/StudentGrievancePortal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=StudentGrievancePortal&theme=nightowl" />
+  </a>
+
+  <a href="https://github.com/VinayakGubber/NpmPackage_use-debounce-fn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NpmPackage_use-debounce-fn&theme=nightowl" />
+  </a>
+
+  <a href="https://github.com/VinayakGubber/RandomQuoteAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=RandomQuoteAPI&theme=nightowl" />
+  </a>
+
+  <a href="https://github.com/VinayakGubber/MyPortfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=MyPortfolio&theme=nightowl" />
+  </a>
+
+  <a href="https://github.com/VinayakGubber/DDP-Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=DDP-Java&theme=nightowl" />
+  </a>
+
+</div>
 
 ---
 
