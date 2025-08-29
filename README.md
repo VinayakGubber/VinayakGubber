@@ -28,33 +28,28 @@
 ---
 
 ### 📂 Top Repositories  
-
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
+ 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; align-items: flex-start;">
   <a href="https://github.com/VinayakGubber/NoteSphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NoteSphere&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NoteSphere&theme=nightowl&cache_bust=7" />
   </a>
-
-  <a href="https://github.com/VinayakGubber/StudentGrievancePortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=StudentGrievancePortal&theme=nightowl" />
-  </a>
-
-  <a href="https://github.com/VinayakGubber/NpmPackage_use-debounce-fn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NpmPackage_use-debounce-fn&theme=nightowl" />
-  </a>
-
+ 
   <a href="https://github.com/VinayakGubber/RandomQuoteAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=RandomQuoteAPI&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=RandomQuoteAPI&theme=nightowl&cache_bust=7" />
   </a>
-
+    <a href="https://github.com/VinayakGubber/StudentGrievancePortal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=StudentGrievancePortal&theme=nightowl&cache_bust=7" />
+  </a>
+   <a href="https://github.com/VinayakGubber/NpmPackage_use-debounce-fn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=NpmPackage_use-debounce-fn&theme=nightowl&cache_bust=7" />
+  </a>
   <a href="https://github.com/VinayakGubber/MyPortfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=MyPortfolio&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=MyPortfolio&theme=nightowl&cache_bust=7" />
   </a>
-
   <a href="https://github.com/VinayakGubber/DDP-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=DDP-Java&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakGubber&repo=DDP-Java&theme=nightowl&cache_bust=7" />
   </a>
-
+ 
 </div>
 
 
