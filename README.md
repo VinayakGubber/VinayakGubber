@@ -13,7 +13,7 @@
 🚀 Experienced with **MERN stack projects** and **cloud deployments**.  
 📌 Open to contributing to impactful projects and solving real-world problems.  
 
-📄 [**View My Resume**](https://drive.google.com/file/d/15Cf1ANsVcQmQCnjQMynvHz_kUMyaviiF/view?usp=sharing)  
+📄 [**View My Resume**](https://drive.google.com/file/d/1DPtP9AkN8Aih48jq8wCt6AKfAScVBC24/view?usp=sharing)  
 
 ---
 
