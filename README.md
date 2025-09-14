@@ -20,7 +20,7 @@
 ## ⚙️ Tech Stack  
 
 - **Languages:** Java, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries:** Node.js, Express, React, Redux, MERN Stack  
+- **Frameworks & Libraries:** Node.js, React.js, Express, MongoDB  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, GitHub, Postman  
 - **Cloud:** AWS (Fundamentals Certified)  
