@@ -25,6 +25,7 @@
 - **Tools:** Git, GitHub, Postman  
 - **Cloud:** AWS (Fundamentals Certified)  
 
+ <!--
 ---
 
 ### 📂 Top Repositories  
@@ -54,7 +55,7 @@
 
 
 ---
-
+-->
 ## 🎓 Education  
 
 - **MCA** – RV College of Engineering, Bengaluru | *CGPA: 8.11 (1st Sem)*  
