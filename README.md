@@ -15,6 +15,8 @@
 
 📄 <a href="https://drive.google.com/file/d/1DPtP9AkN8Aih48jq8wCt6AKfAScVBC24/view?usp=sharing" target="_blank">View My Resume →</a>
 
+💻 <a href="https://vinayakgubber.vercel.app" target="_blank">View My Portfolio →</a>
+
 ---
 
 ## ⚙️ Tech Stack  
@@ -56,6 +58,8 @@
 
 ---
 -->
+
+---
 ## 🎓 Education  
 
 - **MCA** – RV College of Engineering, Bengaluru | *CGPA: 8.11 (1st Sem)*  
