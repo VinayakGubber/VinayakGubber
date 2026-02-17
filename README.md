@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-**Aspiring Software Developer | Java & MERN Stack | MCA Student at RVCE**  
+**Solutions Engineer Intern @ Whatfix | Final-Year MCA Student @ RV College of Engineering**  
 
 💡 Passionate about building scalable backend & full-stack applications.  
 🧠 Skilled in **Java, JavaScript and RESTful APIs**.  
